@@ -1,0 +1,63 @@
+.Footer{
+    width: 100%;
+    display: flex;
+    place-content: space-between;
+    border-top: 1px solid rgb(168, 165, 165);
+    
+    padding-bottom: 5em;
+}
+.imagefooter{
+    margin-top: 6rem;
+    margin-left: 10rem;
+
+}
+.myul{
+    list-style: none;
+    text-decoration: none;
+    align-items: baseline;
+}
+.title{
+    text-align: right;
+    margin: 2.5em 0 1em 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+  a{
+      text-decoration: none;
+      color: rgb(160, 159, 159);
+      font-size: 16px;}
+    a:hover,
+    a:active {
+    color: #77a6f7;
+  }
+
+  
+
+  .seconddiv{
+      position: absolute;
+      margin: 0em;
+      padding: 0;
+      left: 27%;
+      
+  }
+  li{
+      margin-bottom: 1.5em;
+      text-align: right;
+  }
+
+.forthdiv{
+    position: absolute;
+    margin: 0em;
+    padding: 0;
+    left: 53%;
+   
+    
+}
+.thirddiv{
+    
+    position: absolute;
+    margin: 0em;
+    padding: 0;
+    left: 80%;
+}

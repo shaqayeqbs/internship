@@ -1,0 +1,47 @@
+.h2class{
+    text-align: right;
+    margin: 0;
+    padding: 0%;
+    margin-bottom: 2em;
+    font-size: 22px;
+}
+.lets{
+    text-align: right;
+}
+.imgclass{
+    position: absolute;
+    left: 92.5%;
+    top: 45%;
+}
+.imgclass1{
+    position: absolute;
+    left: 81%;
+    top: 45.5%;
+}
+.container{
+    display: flex;
+    place-content: space-between;
+    flex-direction: row;
+}
+.foot{
+    position: absolute;
+    left: 79.6%;
+    top: 52%;
+   
+}
+.text{
+    text-align: right;
+    position: absolute;
+    left: 69.5%;
+    top: 70%;
+}
+.map{
+    position: absolute;
+    left: 28.7%;
+    top: 36.5%;
+
+}
+.innertext{
+    margin-bottom: 1em;
+    color: gray;
+}
